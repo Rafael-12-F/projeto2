@@ -1,0 +1,95 @@
+*{ margin: 0;
+padding: 0;}
+
+.logo-img {
+    width: 595px;
+    height: 500px;
+    margin-left: 121px;
+}
+
+
+    header {
+        height: 20px;
+        margin-top: 47px;
+        margin-left: 42px;
+    }
+    .botao{
+        border-radius: 7px;
+        width: 67px;
+        height: 24px;
+        background: rgba(111, 191, 68, 1);
+      border: none;
+      margin-left: 10px;
+
+    }
+    .link_header1{
+        width: 400px;
+        font-size: 14px;
+        line-height: 21px;
+        margin-right: 25.8px;
+        margin-left: 10px;
+        color: #233561
+        
+
+    }
+    .link_header2{
+        width: 400px;
+        font-size:14px ;
+        line-height: 21px;
+        margin-right: 25.8px;
+        color:#233561
+    } 
+ 
+
+    .link_header3{
+        width: 400px;
+        font-size:14px ;
+        line-height: 21px;
+        margin-right: 25.8px;
+        color: #233561
+    } 
+    .link_header4{
+        width: 400px;
+        font-size:14px ;
+        line-height: 21px;
+      color:#233561.1
+ 
+    }
+    div{
+        display: inline-block;
+        margin-left: 200px;
+    }
+    h1 {
+        font-weight: 50;
+        height: 50px;
+        margin-left: 450px;
+        font-size: 50px;
+        line-height: 50px;
+    }
+    p{
+        font-weight: 50;
+        height: 50px;
+        margin-left: 450px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #758090;
+        margin-bottom: 65px;
+    } 
+    .botao2{
+        width: 300px;
+        height: 27px;
+        margin-top: 5px;
+        margin-left: 450px;
+        background-color: rgb(111, 191, 68.1);
+        
+        border-radius: 7px;
+        font-weight: 700px;
+        font-size:20px;
+        line-height: 34px;
+        border: none;
+    }
+
+
+
+
+   
